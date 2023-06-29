@@ -1,0 +1,7 @@
+.search-bar{
+    background-color:#121212;
+    color: #888888;
+}
+.search-bar:focus{
+    color:white;
+}
